@@ -62,10 +62,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -84,4 +86,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0118-pascals-triangle](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
+## Graph Theory
+|  |
+| ------- |
+| [2685-count-the-number-of-complete-components](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
