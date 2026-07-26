@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0605-can-place-flowers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1331-rank-transform-of-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
 ## Number Theory
 |  |
 | ------- |
