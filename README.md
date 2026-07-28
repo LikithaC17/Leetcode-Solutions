@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2352-equal-row-and-column-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Bit Manipulation
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2352-equal-row-and-column-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3312-sorted-gcd-pair-queries](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Enumeration
 |  |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2352-equal-row-and-column-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
