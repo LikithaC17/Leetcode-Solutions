@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1004-max-consecutive-ones-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1331-rank-transform-of-an-array) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2390-removing-stars-from-a-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Greedy
