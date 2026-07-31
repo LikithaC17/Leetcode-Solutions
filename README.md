@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## Binary Search Tree
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 ## String
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Union-Find
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
