@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0437-path-sum-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## String
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Depth-First Search
 |  |
@@ -207,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0437-path-sum-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0872-leaf-similar-trees](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0872-leaf-similar-trees) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
