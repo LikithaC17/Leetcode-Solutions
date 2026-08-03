@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2542-maximum-subsequence-score](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
@@ -216,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Matrix
 |  |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2542-maximum-subsequence-score](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Monotonic Stack
