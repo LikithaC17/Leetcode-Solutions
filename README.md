@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Binary Search
@@ -83,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 ## Math
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
+| [2300-successful-pairs-of-spells-and-potions](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2542-maximum-subsequence-score) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
