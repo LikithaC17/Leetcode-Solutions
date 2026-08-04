@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0374-guess-number-higher-or-lower](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 | [1004-max-consecutive-ones-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -409,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
