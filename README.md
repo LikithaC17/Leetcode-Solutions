@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0072-edit-distance](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0392-is-subsequence) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
