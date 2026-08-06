@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0649-dota2-senate](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1143-longest-common-subsequence](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1768-merge-strings-alternately) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0790-domino-and-tromino-tiling](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1137-n-th-tribonacci-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1406-stone-game-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -449,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1137-n-th-tribonacci-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
