@@ -222,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0649-dota2-senate) |
+| [0657-robot-return-to-origin](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0709-to-lower-case) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
@@ -404,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [2352-equal-row-and-column-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
