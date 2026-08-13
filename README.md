@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [1041-robot-bounded-in-circle](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1137-n-th-tribonacci-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0649-dota2-senate](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0709-to-lower-case](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0709-to-lower-case) |
+| [1041-robot-bounded-in-circle](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1143-longest-common-subsequence](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1143-longest-common-subsequence) |
 | [1268-search-suggestions-system](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
+| [1041-robot-bounded-in-circle](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1041-robot-bounded-in-circle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2390-removing-stars-from-a-string) |
