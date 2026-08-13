@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0035-search-insert-position) |
+| [0054-spiral-matrix](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -289,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0994-rotting-oranges](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0657-robot-return-to-origin](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
