@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
+| [0043-multiply-strings](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0067-add-binary) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0072-edit-distance) |
@@ -438,6 +440,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
