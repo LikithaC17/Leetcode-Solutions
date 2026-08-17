@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1491-average-salary-excluding-the-minimum-and-maximum-salary](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1491-average-salary-excluding-the-minimum-and-maximum-salary) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1563-stone-game-v](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1572-matrix-diagonal-sum](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1563-stone-game-v](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
@@ -356,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-stone-game-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1510-stone-game-iv](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -548,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2029-stone-game-ix) |
 ## Shortest Path
 |  |
