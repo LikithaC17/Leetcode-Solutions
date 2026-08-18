@@ -648,4 +648,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
