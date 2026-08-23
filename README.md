@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0068-text-justification) |
 | [0657-robot-return-to-origin](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
