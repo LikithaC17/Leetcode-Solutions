@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0345-reverse-vowels-of-a-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0383-ransom-note) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0219-contains-duplicate-ii) |
