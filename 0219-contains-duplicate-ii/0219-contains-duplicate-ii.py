@@ -1,8 +1,10 @@
-class Solution(object):
-    def containsNearbyDuplicate(self, nums, k):
-        d={}
-        for i,num in enumerate(nums):
-            if num in d and i-d[num]<=k:
+class Solution:
+    def containsNearbyDuplicate(self, nums: List[int], k: int) -> bool:
+        seen = {}
+
+        for i, num in enumerate(nums):
+            if num in seen and i - seen[num] <= k:
                 return True
-            d[num]=i
+            seen[num] = i
+
         return False
