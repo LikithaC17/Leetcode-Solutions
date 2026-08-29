@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0136-single-number) |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0399-evaluate-division](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0547-number-of-provinces) |
 | [2685-count-the-number-of-complete-components](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2685-count-the-number-of-complete-components) |
@@ -471,6 +473,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
