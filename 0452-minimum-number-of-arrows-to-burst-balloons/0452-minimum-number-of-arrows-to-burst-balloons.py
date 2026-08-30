@@ -1,7 +1,8 @@
-class Solution(object):
-    def findMinArrowShots(self, points):
-        points.sort(key=lambda x: x[1])
+from typing import List
 
+class Solution:
+    def findMinArrowShots(self, points: List[List[int]]) -> int:
+        points.sort(key=lambda x: x[1])
         arrows = 1
         end = points[0][1]
 
