@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0189-rotate-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0445-add-two-numbers-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -597,6 +599,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0682-baseball-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0682-baseball-game) |
@@ -650,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0224-basic-calculator) |
 | [0394-decode-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 ## Queue
