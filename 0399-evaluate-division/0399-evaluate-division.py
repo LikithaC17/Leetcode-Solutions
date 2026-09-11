@@ -1,29 +1,26 @@
-class Solution(object):
-    def calcEquation(self, equations, values, queries):
-        graph = {}
+from collections import defaultdict
+
+class Solution:
+    def calcEquation(self, equations: List[List[str]], values: List[float], queries: List[List[str]]) -> List[float]:
+        graph = defaultdict(list)
 
         for (a, b), v in zip(equations, values):
-            if a not in graph:
-                graph[a] = []
-            if b not in graph:
-                graph[b] = []
-
             graph[a].append((b, v))
-            graph[b].append((a, 1.0 / v))
+            graph[b].append((a, 1 / v))
 
-        def dfs(src, dst, visited):
-            if src == dst:
+        def dfs(curr, target, visited):
+            if curr == target:
                 return 1.0
 
-            visited.add(src)
+            visited.add(curr)
 
-            for nei, val in graph[src]:
+            for nei, w in graph[curr]:
                 if nei not in visited:
-                    ans = dfs(nei, dst, visited)
-                    if ans != -1.0:
-                        return val * ans
+                    ans = dfs(nei, target, visited)
+                    if ans != -1:
+                        return w * ans
 
-            return -1.0
+            return -1
 
         res = []
 
