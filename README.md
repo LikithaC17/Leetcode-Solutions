@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0739-daily-temperatures) |
 | [0746-min-cost-climbing-stairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0835-image-overlap](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -484,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [0835-image-overlap](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
