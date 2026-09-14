@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0445-add-two-numbers-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0445-add-two-numbers-ii) |
 | [0486-predict-the-winner](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0976-largest-perimeter-triangle](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1041-robot-bounded-in-circle) |
@@ -941,6 +942,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Geometry
 |  |
 | ------- |
+| [0836-rectangle-overlap](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0836-rectangle-overlap) |
 | [1232-check-if-it-is-a-straight-line](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1232-check-if-it-is-a-straight-line) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
