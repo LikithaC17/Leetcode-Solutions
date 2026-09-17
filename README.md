@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0399-evaluate-division](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0399-evaluate-division) |
+| [0427-construct-quad-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0427-construct-quad-tree) |
 ## Tree
 |  |
 | ------- |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0427-construct-quad-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0450-delete-node-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
@@ -507,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0212-word-search-ii) |
 | [0289-game-of-life](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0289-game-of-life) |
+| [0427-construct-quad-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0427-construct-quad-tree) |
 | [0835-image-overlap](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0835-image-overlap) |
 | [0909-snakes-and-ladders](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
