@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0896-monotonic-array) |
 | [0909-snakes-and-ladders](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0909-snakes-and-ladders) |
+| [0918-maximum-sum-circular-subarray](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0976-largest-perimeter-triangle](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [0994-rotting-oranges](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
@@ -291,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0427-construct-quad-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0427-construct-quad-tree) |
+| [0918-maximum-sum-circular-subarray](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 ## Tree
 |  |
 | ------- |
@@ -565,6 +567,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0746-min-cost-climbing-stairs](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0790-domino-and-tromino-tiling) |
 | [0877-stone-game](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0918-maximum-sum-circular-subarray](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0940-distinct-subsequences-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1137-n-th-tribonacci-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1137-n-th-tribonacci-number) |
 | [1140-stone-game-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1140-stone-game-ii) |
@@ -842,6 +845,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0649-dota2-senate](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0649-dota2-senate) |
+| [0918-maximum-sum-circular-subarray](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 | [0933-number-of-recent-calls](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -1062,4 +1066,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0918-maximum-sum-circular-subarray](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0918-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
