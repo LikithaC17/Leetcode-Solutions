@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0345-reverse-vowels-of-a-string](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0389-find-the-difference) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
@@ -782,6 +785,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0173-binary-search-tree-iterator](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0173-binary-search-tree-iterator) |
 | [0208-implement-trie-prefix-tree](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0295-find-median-from-data-stream](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0380-insert-delete-getrandom-o1](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0380-insert-delete-getrandom-o1) |
 | [0901-online-stock-span](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0901-online-stock-span) |
@@ -868,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0933-number-of-recent-calls) |
 ## Linked List
