@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0486-predict-the-winner](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0486-predict-the-winner) |
+| [0502-ipo](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0389-find-the-difference) |
 | [0435-non-overlapping-intervals](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0628-maximum-product-of-three-numbers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0976-largest-perimeter-triangle](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0976-largest-perimeter-triangle) |
 | [1268-search-suggestions-system](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
@@ -511,6 +513,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0502-ipo](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0502-ipo) |
 | [1268-search-suggestions-system](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1268-search-suggestions-system) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/2336-smallest-number-in-infinite-set) |
@@ -814,6 +817,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0435-non-overlapping-intervals) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0502-ipo](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0502-ipo) |
 | [0605-can-place-flowers](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0649-dota2-senate) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/LikithaC17/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
